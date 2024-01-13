@@ -1,0 +1,14 @@
+---
+title: "EBINLO"
+---
+
+My latest track (now with inhales!):
+
+```{=html}
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3552753483/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://ebinlo.bandcamp.com/track/havent-you-heard-the-ghosts-are-on-strike">Haven&#39;t You Heard the Ghosts Are On Strike? by EBINLO</a></iframe>
+```
+You can find my released music on [Bandcamp](ebinlo.bandcamp.com), as well as [Spotify](https://open.spotify.com/artist/2MQ88L5jQL1YfEoSNtZgZh?si=rJ8RyRmRRHiSV-ZlEmOBVw) and the other major streaming services.
+
+DJ mixes are here: [www.danceflooromnivore.com](www.danceflooromnivore.com)
+
+I blog, including sometimes about music stuff, at my personal site: [www.zandergordan.com](www.zandergordan.com)
