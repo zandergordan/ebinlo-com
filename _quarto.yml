@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - icon: instagram
+        href: https://www.instagram.com/dj.ebinlo/
 
 format:
   html:
