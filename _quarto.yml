@@ -10,6 +10,10 @@ website:
         text: Home
       - icon: instagram
         href: https://www.instagram.com/dj.ebinlo/
+      - icon: boombox
+        href: https://ebinlo.bandcamp.com
+      - icon: spotify
+        href: https://open.spotify.com/artist/2MQ88L5jQL1YfEoSNtZgZh?si=r2PYcynXRXemj3o2ERwjrg
 
 format:
   html:

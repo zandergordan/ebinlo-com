@@ -2,13 +2,13 @@
 title: "EBINLO"
 ---
 
-My latest track (now with inhales!):
+My new mix series, [Dance Floor Omnivore](www.danceflooromnivore.com):
 
 ```{=html}
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3552753483/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://ebinlo.bandcamp.com/track/havent-you-heard-the-ghosts-are-on-strike">Haven&#39;t You Heard the Ghosts Are On Strike? by EBINLO</a></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1718520582&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ebinlo" title="EBINLO" target="_blank" style="color: #cccccc; text-decoration: none;">EBINLO</a> · <a href="https://soundcloud.com/ebinlo/dance-floor-omnivore-vol-1-synth-pop" title="Dance Floor Omnivore Vol 1: Synth Pop" target="_blank" style="color: #cccccc; text-decoration: none;">Dance Floor Omnivore Vol 1: Synth Pop</a></div>
 ```
 You can find my released music on [Bandcamp](ebinlo.bandcamp.com), as well as [Spotify](https://open.spotify.com/artist/2MQ88L5jQL1YfEoSNtZgZh?si=rJ8RyRmRRHiSV-ZlEmOBVw) and the other major streaming services.
 
-DJ mixes are here: [www.danceflooromnivore.com](www.danceflooromnivore.com)
+DJ mixes are on my site as a podcast feed, and also on [Soundcloud](https://soundcloud.com/ebinlo): [www.danceflooromnivore.com](www.danceflooromnivore.com)
 
 I blog, including sometimes about music stuff, at my personal site: [www.zandergordan.com](www.zandergordan.com)
